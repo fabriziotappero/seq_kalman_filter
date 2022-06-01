@@ -18,5 +18,5 @@ you can play around with the two parameters of the signal noise mode. Notice tha
 enjoy.
 
 <p align="center">
-  <img src="https://github.com/fabriziotappero/seq_kalman_filter/blob/master/screenshot.jpg?raw=true" alt="" width="90%"/>
+  <img src="https://github.com/fabriziotappero/seq_kalman_filter/blob/main/screenshot.jpg?raw=true" alt="" width="90%"/>
 </p>
